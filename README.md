@@ -1,4 +1,4 @@
-# hubtooljupytertemplate
+# nanoHUB-Jupyter-template
 Repository template for Jupyter HUBzero tool
 
 .keep files are present to force git to track initially empty directories.
