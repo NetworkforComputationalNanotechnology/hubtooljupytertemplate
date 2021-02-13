@@ -1,5 +1,6 @@
 # nanoHUB-Jupyter-template
-Repository template for creating a nanoHUB Jupyter tool.
+This is a repository template for creating a nanoHUB Jupyter tool.
+
 Keep all of the folders and hidden files.  
 .keep files are present to force git to track initially empty directories.
 Should the directories become populated the .keep file can be removed.
