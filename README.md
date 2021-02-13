@@ -16,14 +16,14 @@ Your Jupyter notebook files will go in the top level directory.  More informatio
 2a) If you set it up as a public repository, you will use the public https:// link to set up the connection with nanoHUB
 * click the clipboard to copy the URL to use
 
-2b) If you set it up as a private repository, there are more steps invovled:
-* you will have to have an ssh key in nanoHUB and add the public key to your GitHub account
-* you will use the private ssh:// link to set up the connection with nanoHUB
-* you need to invite nanohub-apps as a collaborator to your repo, in order to get the key to connect to nanoHUB.
+2b) If you set it up as a private repository, there are more steps:
+* You will have to have an ssh key in nanoHUB and add the public key to your GitHub account.
+* You will use the private ssh:// link to set up the connection with nanoHUB.
+* You need to invite nanohub-apps as a collaborator to your repo, in order to get the key to connect to nanoHUB.
 
-3) Go to https://nanohub.org/tools/create To Set up and register your nanoHUB tool.
-* In the section for Repository host, select "Host GIT repository on GitHUB"
-* In the section for Git Repository URL: paste in the link you copied to the clipboard
+3) Go to https://nanohub.org/tools/create to set up and register your nanoHUB tool.
+* In the section for Repository host, select "Host GIT repository on GitHUB".
+* In the section for Git Repository URL: paste in the link copied to the clipboard.
 * For publishing option, select Jupyter notebook.
 
 After you click the button to register your tool, you will receive an email with a link to the tool project space in nano Forge.
