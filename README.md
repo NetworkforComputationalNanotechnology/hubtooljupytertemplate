@@ -12,6 +12,7 @@ Your Jupyter notebook files will go in the top level directory.  More informatio
 * Click the green button at the bottom to "create repository from template".
 
 2) Get the link to clone the repo to nanoHUB (Click the code download button)
+
 2a) If you set it up as a public repository, you will use the public https:// link to set up the connection with nanoHUB
 * click the clipboard to copy the URL to use
 
