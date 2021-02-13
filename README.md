@@ -6,7 +6,7 @@ Keep all of the folders and hidden files.
 Should the directories become populated the .keep file can be removed.
 Your Jupyter notebook files will go in the top level directory.  More information will be available in nanoFORGE once you register your new tool.
 
-1) Click the green "use this template" button to create a copy of this repository in your own GitHub account.
+1) Click the green "Use this template" button to create a copy of this repository in your own GitHub account.
 * Type in the name of your repository. You can use your tool short name, or something related to your tool's name, to make life easier.
 * Select whether the repo will be public or private. Public is easier.
 * Click the green button at the bottom to "create repository from template".
