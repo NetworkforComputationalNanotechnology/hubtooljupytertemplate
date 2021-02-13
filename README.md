@@ -26,4 +26,8 @@ Your Jupyter notebook files will go in the top level directory.  More informatio
 * In the section for Git Repository URL, paste in the link copied to the clipboard.
 * For publishing option, select Jupyter notebook.
 
-After you click the button to register your tool, you will receive an email with a link to the tool project space in nano Forge.
+After you click the button to register your tool, you will be redirected to your tool's status page, and you will also receive an email with a link to the tool's project space in nanoFORGE.
+
+[Include a link here to more complete instructions for building a Jupyter Notebook Tool.]
+
+For a Jupyter notebook tool, put your notebooks and associated files in the top level directory. Keep all of the additional, unused folders and files - just ignore most of them. You will need to update the invoke script in the middleware folder.
