@@ -13,11 +13,11 @@ Your Jupyter notebook files will go in the top level directory.  More informatio
 
 2) Go to your newly created repository and copy the link to clone the repo to nanoHUB (click the code download button).
 
-2a) If you set it up as a public repository, you will use the public https:// link to set up the connection with nanoHUB.
+2a) If you set up a public repository, you will use the public https:// link to set up the connection with nanoHUB.
 * Click the clipboard icon to copy the URL to the clipboard.
 
-2b) If you set it up as a private repository, there are more steps:
-* You will have to have an ssh key in nanoHUB and add the public key to your GitHub account.
+2b) If you set up a private repository, there are more steps:
+* You will have to have an ssh key in nanoHUB and add the public key to your GitHub account.  Intructions are here: https://nanohub.org/kb/tools/sshkeypair.
 * You will use the private ssh:// link to set up the connection with nanoHUB.
 * You need to invite nanohub-apps as a collaborator to your repo, in order to get the key to connect to nanoHUB.
 
