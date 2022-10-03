@@ -28,11 +28,11 @@ Keep all of the folders and hidden files.  .keep files are present to force git 
 
   ### 2a) If you set up a public GitHub repository, use the public https URL:  
   * Click the clipboard icon to copy your app's public https URL to the clipboard.
-  * In your nanoHUB Jupyter Notebook terminal, type `git clone https://github.com/yourgithubrepo`.
+  * In your nanoHUB Jupyter Notebook terminal, type `git clone https://github.com/yourgithubacount/yourgithubrepo`.
 
   ### 2b) If you set up a private GitHub repository, use the private ssh URL:
   * You will have to have an ssh key in nanoHUB and add the public key to your GitHub account to connect to your personal nanoHUB filespace. [Instructions for setting up an ssh key pair in nanoHUB](https://nanohub.org/kb/tools/sshkeypair).
-  * In your nanoHUB Jupyter Notebook terminal, type `git clone ssh://github.com/yourgithubrepo` to set up the connection between your GitHub repo and your local nanoHUB repo.
+  * In your nanoHUB Jupyter Notebook terminal, type `git clone https://github.com/yourgithubaccount/yourgithubrepo` to set up the connection between your GitHub repo and your local nanoHUB repo. 
   * Additionally, you need to invite nanohub-apps as a collaborator to your GitHub repo, in order to get the key to connect to nanoHUB/apps.
   * Click on the settings gear, then click on Collaborators.  Search for nanohub-apps, as shown in the following image:
 
