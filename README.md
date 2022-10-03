@@ -30,7 +30,7 @@ Keep all of the folders and hidden files.  .keep files are present to force git 
   * The repo should start cloning once you submit the git clone command.
 
   ### 2b) If you set up a private GitHub repository:
-  * You will need to log in to your GitHub account. 
+  * You will need to log in to your GitHub account. When prompted for your password, enter your [GitHub personal access token](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token).
       *  Use your GitHub account name and your personal token ....  You will not see the terminal respond when you paste in you token.  This is for security purposes. Hit return and you should see the repo starting to clone.
   * You will have to have an ssh key in nanoHUB and add the public key to your GitHub account to connect to your personal nanoHUB filespace. [Instructions for setting up an ssh key pair in nanoHUB](https://nanohub.org/kb/tools/sshkeypair).
   * Additionally, you need to invite nanohub-apps as a collaborator to your GitHub repo, in order to get the key to connect to nanoHUB/apps.
