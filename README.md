@@ -17,7 +17,7 @@ Your Jupyter notebook files will go in the top level directory.  More informatio
 * Click the clipboard icon to copy the URL to the clipboard.
 
 2b) If you set up a private repository, there are more steps:
-* You will have to have an ssh key in nanoHUB and add the public key to your GitHub account.  Intructions are here: https://nanohub.org/kb/tools/sshkeypair.
+* You will have to have an ssh key in nanoHUB and add the public key to your GitHub account.  Instructions are here: https://nanohub.org/kb/tools/sshkeypair.
 * You will use the private ssh:// link to set up the connection with nanoHUB.
 * You need to invite nanohub-apps as a collaborator to your repo, in order to get the key to connect to nanoHUB.
 
