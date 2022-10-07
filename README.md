@@ -38,7 +38,7 @@ If you use HTTPS, you will need to enter your credentials every time you push co
 ### To use the HTTPS URL:  
 * Go to the HTTPS tab
 * Click the clipboard icon to copy your tools's https URL to the clipboard.
-* In your nanoHUB Jupyter Notebook terminal, type `git clone` and then paste the URL from the clipboard and hit return.
+* In your nanoHUB terminal, type `git clone` and then paste the URL from the clipboard and hit return.
 * The full command will look like this: `git clone https://github.com/yourgithubaccount/yourgithubrepo`
 * You will be prompted for your GitHub account name.
 * You will be prompted for your GitHub password. Paste in your GitHub Private Access Token and then hit return. You will not see any response from the terminal until you hit return.
@@ -49,7 +49,7 @@ If you use HTTPS, you will need to enter your credentials every time you push co
   * [Instructions for setting up an ssh key pair in nanoHUB](https://nanohub.org/kb/tools/sshkeypair).
 * Go to the SSH tab
 * Click the clipboard icon to copy your tools's ssh URL to the clipboard.
-* In your nanoHUB Jupyter Notebook terminal, type `git clone` and then paste the URL from the clipboard. Hit return.
+* In your nanoHUB terminal, type `git clone` and then paste the URL from the clipboard. Hit return.
 * The full command will look like this: `git clone git@github.com:yourgithubaccount/yourgithubrepo`
 * You should see the progress of your repo being cloned into nanoHUB. 
 
