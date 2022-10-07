@@ -32,7 +32,7 @@ It is convenient to work with separate windows or tabs to work with both your Gi
   ![codeDownloadButton](https://user-images.githubusercontent.com/35706811/194592373-499642e4-7e61-4207-8608-d096aa064315.png)
 
 
-### There are two ways to clone a repo, using HTTPS or using SSH.  
+### There are two ways to clone a repo: using HTTPS or using SSH  
 If you use HTTPS, you will need to enter your credentials every time you push code to the repo.  By contrast, if you set up your accounts to use SSH, your credentials are stored in your accounts, and you don't have to enter them again as you work.
   
 ### To use the HTTPS URL:  
