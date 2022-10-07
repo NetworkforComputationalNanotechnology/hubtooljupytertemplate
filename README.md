@@ -41,7 +41,8 @@ If you use HTTPS, you will need to enter your credentials every time you push co
 * In your nanoHUB terminal, type `git clone` and then paste the URL from the clipboard and hit return.
 * The full command will look like this: `git clone https://github.com/yourgithubaccount/yourgithubrepo`
 * You will be prompted for your GitHub account name.
-* You will be prompted for your GitHub password. Paste in your [GitHub Personal Access Token](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token) and then hit return. You will not see any response from the terminal until you hit return.
+* You will be prompted for your GitHub password. Paste in your **GitHub Personal Access Token** and then hit return. You will not see any response from the terminal until you hit return.
+  * [Instructions for creating a GitHub Personal Access Token](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token)
 * You should see the progress of your repo being cloned into nanoHUB. 
 
 ### To use the SSH URL: 
