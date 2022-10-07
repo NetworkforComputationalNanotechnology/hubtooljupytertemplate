@@ -15,7 +15,7 @@ These instructions assume that you already have a [nanoHUB account](https://nano
 
 * Select whether the repo will be **public** or **private**. 
      * nanoHUB encourages you to create a **public** GitHub repo. 
-     * If you can make your tools both open access in nanoHUB and open source in GitHub, this creates a greater potential for others to use, cite and build upon your work. 
+     * If you make your tools both open access in nanoHUB and open source in GitHub, this creates a greater potential for others to use, cite and build upon your work. 
      * Additionally, working with a public repo is technically much simpler and avoids periodic issues (such as firewalls) that can unexpectedly arise when working with a private repo.
 
 * You do not need to check the box to include all branches. There is only one branch here, and nanoHUB only works with the main branch of your repo.
