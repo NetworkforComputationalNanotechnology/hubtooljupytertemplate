@@ -45,7 +45,7 @@ If you use HTTPS, you will need to enter your credentials every time you push co
 * You should see the progress of your repo being cloned into nanoHUB. 
 
 ### To use the SSH URL: 
-* You first have to have an ssh key in your nanoHUB account and add the public key to your GitHub account. 
+* You first have to have an ssh key pair in your nanoHUB account and add the public key to your GitHub account. 
   * [Instructions for setting up an ssh key pair in nanoHUB](https://nanohub.org/kb/tools/sshkeypair).
 * Go to the SSH tab
 * Click the clipboard icon to copy your tools's ssh URL to the clipboard.
