@@ -25,7 +25,7 @@ These instructions assume that you already have a [nanoHUB account](https://nano
 Keep all of the folders and hidden files.  .keep files are present to force git to track initially empty directories. Should the directories become populated the .keep file can be removed.
 
 ## 2) Clone your tool's GitHub repo into your personal nanoHUB filespace.
-It is convenient to work with separate windows or tabs for your GitHub account and your nanoHUB account.
+It is convenient to work with separate windows or tabs to work with both your GitHub account and your nanoHUB account at the same time.
 * Open a terminal in a Jupyter Notebook session in nanoHUB and navigate to the directory into which you will clone your tool's GitHub repo.
 * In 2022, the latest Jupyter Notebook version is [Jupyter Notebook (202105)](https://nanohub.org/tools/jupyter70). There are also other versions that you can find by searching in the tools module in your nanoHUB dashboard.
 * In your newly created GitHub repository, find the link to this repo by clicking the green code download button and viewing the options.  
