@@ -6,7 +6,7 @@ This is a repository template for creating a Jupyter Notebook tool that you plan
 
 These instructions assume that you already have a [nanoHUB account](https://nanohub.org/) and a [GitHub account](https://github.com/).
 
-## 1) Create a GitHub repository for your new tool using this template.
+## 1) Create a GitHub repository for your new tool using this template
 * Click the green "Use this template" button ![use_this_template](https://user-images.githubusercontent.com/35706811/193605808-f8e68353-bdf4-46ef-949d-4f3ea1f4c9ca.png) to start the process. This opens a page that has several options for you to select and fields to fill in.
 
   ![GitHub_public_template](https://user-images.githubusercontent.com/35706811/193608966-c6ccad77-6af3-4031-9a8f-98b6246049d0.png)
@@ -24,7 +24,7 @@ These instructions assume that you already have a [nanoHUB account](https://nano
 
 Keep all of the folders and hidden files.  .keep files are present to force git to track initially empty directories. Should the directories become populated the .keep file can be removed.
 
-## 2) Clone your tool's GitHub repo into your personal nanoHUB filespace.
+## 2) Clone your tool's GitHub repo into your personal nanoHUB filespace
 It is convenient to work with separate windows or tabs to work with both your GitHub account and your nanoHUB account at the same time.
 * Open a terminal in a Jupyter Notebook session in nanoHUB and navigate to the directory into which you will clone your tool's GitHub repo.
 * In 2022, the latest Jupyter Notebook version is [Jupyter Notebook (202105)](https://nanohub.org/tools/jupyter70). There are also other versions that you can find by searching in the tools module in your nanoHUB dashboard.
